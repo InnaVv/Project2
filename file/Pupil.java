@@ -25,6 +25,7 @@ public class Pupil {
         this.math = math;
     }
 
+
     public int getPhysics() {
         return physics;
     }
