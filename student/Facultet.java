@@ -13,6 +13,7 @@ public class Facultet {
     }
 
     public void addStudents(List<Student> students) {
+
         this.students.addAll(students);
     }
 }
